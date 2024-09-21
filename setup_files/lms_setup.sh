@@ -41,10 +41,10 @@ apt -qqy install \
     gnupg &>/dev/null
     
 echo -e "${CHECKMARK} \e[1;92m Downloading Logitech Media Server... \e[0m"
-wget https://downloads.slimdevices.com/LogitechMediaServer_v8.2.0/logitechmediaserver_8.2.0_amd64.deb &>/dev/null
+wget https://downloads.lms-community.org/LogitechMediaServer_v8.5.2/logitechmediaserver_8.5.2_amd64.deb &>/dev/null
 
 echo -e "${CHECKMARK} \e[1;92m Installing Logitech Media Server... \e[0m"
-sudo apt install -y ./logitechmediaserver_8.2.0_amd64.deb  &>/dev/null
+sudo apt install -y ./logitechmediaserver_8.5.2_amd64.deb  &>/dev/null
 
 echo -e "${CHECKMARK} \e[1;92m Customizing Container... \e[0m"
 rm /etc/motd 
