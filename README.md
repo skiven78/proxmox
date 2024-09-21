@@ -3,7 +3,7 @@ Some Proxmox hepler scripts from me..
 <details>
 <summary markdown="span">Logitech Media Server 8.5.2 LXC</summary>
 
-<h1 align="center" id="heading"> Logitech Media Server LXC </h1>
+<h1 align="center" id="heading"> Logitech Media Server 8.5.2 LXC </h1>
 
 To create a new Logitech Media Server LXC, run the following in the Proxmox web shell.
 
