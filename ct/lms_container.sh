@@ -72,7 +72,7 @@ function load_module() {
 TEMP_DIR=$(mktemp -d)
 pushd $TEMP_DIR >/dev/null
 
-wget -qL https://raw.githubusercontent.com/StevenSeifried/proxmox-scripts/main/setup_files/lms_setup.sh
+wget -qL https://github.com/skiven78/proxmox/blob/main/setup_files/lms_setup.sh
 
 load_module overlay
 
