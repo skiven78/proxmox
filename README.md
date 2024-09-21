@@ -1,7 +1,7 @@
 Some Proxmox hepler scripts from me..
 
 <details>
-<summary markdown="span">Logitech Media Server LXC</summary>
+<summary markdown="span">Logitech Media Server 8.5.2 LXC</summary>
 
 <h1 align="center" id="heading"> Logitech Media Server LXC </h1>
 
