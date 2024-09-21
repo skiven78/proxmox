@@ -1,4 +1,4 @@
-bash -c "$(wget -qLO - https://raw.githubusercontent.com/skiven78/proxmox/refs/heads/main/ct/lms_container.sh)"
+Some Proxmox hepler scripts from me..
 
 <details>
 <summary markdown="span">Logitech Media Server LXC</summary>
